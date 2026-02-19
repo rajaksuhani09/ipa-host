@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string><![CDATA[https://github.com/ballpooltracer/ipa-host/releases/download/v-3070e4c94983/8cbf8d47-679a-4fa2-83e9-8a9b6260d186.ipa]]></string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>full-size-image</string>
+            <key>url</key>
+            <string><![CDATA[https://raw.githubusercontent.com/NekooGroup/api/main/appicon.png]]></string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>display-image</string>
+            <key>url</key>
+            <string><![CDATA[https://raw.githubusercontent.com/NekooGroup/api/main/appicon.png]]></string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string><![CDATA[com.miniclip.8ballpoolmult2]]></string>
+          <key>bundle-version</key>
+          <string>1.0.0</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>title</key>
+          <string>8Ball Pool free2</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
